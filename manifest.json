@@ -1,0 +1,16 @@
+{
+  "name": "근육 퀴즈",
+  "short_name": "근육",
+  "description": "간격반복 기반 근육 이름 학습 — 한국어/라틴어, 객관식/주관식",
+  "start_url": "/muscle-quiz-web/",
+  "scope": "/muscle-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2563EB",
+  "background_color": "#2563EB",
+  "lang": "ko",
+  "icons": [
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
