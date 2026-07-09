@@ -1,0 +1,16 @@
+{
+  "name": "해부학",
+  "short_name": "해부학",
+  "description": "간격반복 기반 해부학 학습 — 근육·뼈·장기 이름(한국어/라틴어)과 의대 속성, 3D 객관식",
+  "start_url": "/muscle-quiz-web/",
+  "scope": "/muscle-quiz-web/",
+  "display": "standalone",
+  "orientation": "portrait",
+  "theme_color": "#2563EB",
+  "background_color": "#2563EB",
+  "lang": "ko",
+  "icons": [
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "any" },
+    { "src": "pwa-icon.png", "sizes": "1024x1024", "type": "image/png", "purpose": "maskable" }
+  ]
+}
